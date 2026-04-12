@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://aiagent-0tx2.onrender.com";
 const CHAT_URL = `${API_BASE}/chat/`;
 const UPLOAD_URL = `${API_BASE}/upload/`;
 

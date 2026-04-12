@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+data/upload/
+.env
+.idea/
+node_modules/

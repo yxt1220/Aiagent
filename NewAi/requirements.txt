@@ -1,0 +1,12 @@
+openai
+python-dotenv
+pypdf
+fastapi
+uvicorn
+cohere
+pypdf
+python-dotenv
+python-pptx
+python-docx
+pandas
+openpyxl
